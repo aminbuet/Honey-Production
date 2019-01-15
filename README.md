@@ -6,14 +6,14 @@ As we may have already heard, the honeybees are in a precarious state right now.
 
 We have loaded in a DataFrame for you about honey production in the United States from Kaggle. It is called df and has the following columns:
 
-  .1.state
-  .2.numcol
-  .3.yieldpercol
-  .4.totalprod
-  .5.stocks
-  .6.priceperlb
-  .7.prodvalue
-  .8.year
+  1.state
+  2.numcol
+  3.yieldpercol
+  4.totalprod
+  5.stocks
+  6.priceperlb
+  7.prodvalue
+  8.year
 
 Note: All the tasks can be completed using Pandas or NumPy. Pick whichever one we prefer.
 
